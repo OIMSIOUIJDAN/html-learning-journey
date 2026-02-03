@@ -30,4 +30,16 @@ In this lesson, I created my first HTML page directly in GitHub.
 - **<p>** is a paragraph.
 
 ### My First HTML Page
-You can view the file [here](index.html).
+You can view the file [here](<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Lesson 1 - My First Page</title>
+</head>
+<body>
+    <h1>Welcome to My HTML Learning Journey!</h1>
+    <p>This is my very first HTML page created directly on GitHub.</p>
+    <p>HTML is looking fun for now to me, I’m learning how to structure web pages step by step.</p>
+</body>
+</html>).
