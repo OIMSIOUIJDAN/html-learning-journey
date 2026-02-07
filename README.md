@@ -55,9 +55,34 @@ In this lesson, I learned how to improve my HTML page by adding formatting, list
 - `src` is the image path or URL  
 - `alt` describes the image if it fails to load  
 
-## 📌 Lesson 2 Files
-- `index.html`
-- `HTML_Lesson2.pdf`
+# 🌸 Lesson 3: Tables and Forms
+
+In this lesson, I learned how to create tables and forms in HTML.
+
+## ✅ What I Learned
+- `<table>` creates a table  
+- `<tr>` creates a table row  
+- `<th>` creates a header cell  
+- `<td>` creates a data cell  
+- `border="1"` adds a simple border to the table  
+
+- `<form>` creates a form  
+- `<label>` describes an input field  
+- `<input>` creates an input field  
+- Common input types:
+  - `text`
+  - `email`
+  - `password`
+  - `number`
+  - `date`
+- Radio buttons use `type="radio"` and the same `name` value  
+- Checkboxes use `type="checkbox"`  
+- `<textarea>` creates a long text input area  
+- `<select>` creates a dropdown menu  
+- `<option>` defines an item inside a dropdown  
+- `<button type="submit">` creates a submit button  
+
+
 
 
 
