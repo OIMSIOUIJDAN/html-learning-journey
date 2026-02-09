@@ -1,6 +1,6 @@
 # HTML Learning Journey 
 
-This repository will be about my journey learning HTML step by step.
+In this reporsitory I will share with you my journey of learning HTML from scratch, self learning of course 
 
 ## What I'm Learning
 - HTML basics
