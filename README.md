@@ -1,6 +1,6 @@
 # HTML Learning Journey 
 
-In this reporsitory I will share with you my journey of learning HTML from scratch, self learning of course 
+In this reporsitory I will share with you my journey of learning HTML from scratch, self learning of course, I will post the pdfs of the lessons snd the examples as well!!
 
 ## What I'm Learning
 - HTML basics
